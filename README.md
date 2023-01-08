@@ -14,7 +14,7 @@ Veškerá grafika co se nachází v e hře je dělaná ve photoshopu na počíta
 Nad Zvuky jsem dlouho přemýšlel a nakonec jsem dospěl k tomu, že všechny zvuky týkající se postavičky hráče nahraju sám. 
 
 5.	Hudba
-Chtěl bych zkusit udělat v FL Studiu vlastní, jednoduchý rytmus, který bude hrát po celou dobu hraní. Samozřejmě, že budu pracovat v Fl Studiu na klávesnici a myši.
+Chtěl bych zkusit udělat v FL Studiu vlastní, jednoduchý rytmus, který bude hrát po celou dobu hraní. Samozřejmě, že budu pracovat v Fl Studiu na Počítači.
 
 6.	Godot
 
